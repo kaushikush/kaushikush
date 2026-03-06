@@ -5,7 +5,7 @@
   <a href="mailto:kpaul.gw@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-kpaul.gw%40gmail.com-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="YOUR_WEBSITE_LINK_HERE">
+  <a href="https://kaushikush.github.io/">
     <img alt="Website" src="https://img.shields.io/badge/Website-Visit_My_Site-green?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
@@ -20,10 +20,10 @@ I bridge theoretical physics and computational astrophysics to explore the unive
 ### 🛠️ Tools & Tech Stack
 Here is the toolkit I rely on for my daily research, data analysis, and scientific computing:
 
-* **Languages & Core Ecosystem:** Python, Mathematica (xAct, xTensor)
-* **GW Data Analysis:** PyCBC
-* **Compute & OS:** Ubuntu, HTCondor (for high-throughput cluster computing)
-* **Scientific Writing:** LaTeX / Overleaf
+* **Languages & Core Ecosystem:** Python, Mathematica (xAct, MathTensor), C, C++, html, CSS
+* **GW Data Analysis:** PyCBC, Bilby
+* **Compute & OS:** Linux, HTCondor, Slurm (for high-throughput cluster computing)
+* **Scientific Writing:** LaTeX
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -33,13 +33,5 @@ Here is the toolkit I rely on for my daily research, data analysis, and scientif
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushikush&show_icons=true&theme=radical&hide_border=true" alt="Kaushik's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikush&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Beyond the Code
-When my HTCondor jobs are queued, you might find me building mechanical keyboards, experimenting with new Indian dal recipes, or reading the poetry of Jibanananda Das (especially *Banalata Sen*).
+When my jobs are queued on clusters, you might find me exploring parts of Amsterdam, experimenting with mechanical keyboards, or reading the poetry of Jibanananda Das.
