@@ -14,7 +14,7 @@
 
 ### 🔭 About My Research
 I bridge theoretical physics and computational astrophysics to explore the universe through **Gravitational Wave (GW) Astrophysics**. My current work focuses on:
-- 🌀 Modeling compact binary coalescences using **Post-Newtonian theory** and **Numerical Relativity**.
+- 🌀 Modeling compact binary coalescences using **Post-Newtonian theory**, **Self-force** and **Numerical Relativity**.
 - 🌌 Testing general relativity and performing **parameter estimation** of GWs.
 
 ### 🛠️ Tools & Tech Stack
