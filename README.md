@@ -24,13 +24,6 @@ Here is the toolkit I rely on for my daily research, data analysis, and scientif
 * **GW Data Analysis:** PyCBC, Bilby
 * **Compute & OS:** Linux, HTCondor, Slurm (for high-throughput cluster computing)
 * **Scientific Writing:** LaTeX
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-
 ---
 
 ### ⚡ Beyond the Code
